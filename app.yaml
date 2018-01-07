@@ -2,5 +2,5 @@ runtime: nodejs
 env: flex
 network:
   forwarded_ports:
-  - 25000
+  - 80
   instance_tag: websocket
